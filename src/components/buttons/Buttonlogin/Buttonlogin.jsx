@@ -1,5 +1,4 @@
 import React from 'react'
-import style from './Buttonlogin.module.css'
 import styled from 'styled-components';
 import Login from './../../Login/Login';
 import { Link } from 'react-router-dom';

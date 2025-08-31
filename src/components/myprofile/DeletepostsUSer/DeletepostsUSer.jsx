@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import style from "./DeletepostsUSer.module.css";
 import { IoIosCloseCircleOutline } from "react-icons/io";
 import axios from "axios";
 import { APi_BASEURL } from "../../../lib/Api";

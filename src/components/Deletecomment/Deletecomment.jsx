@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import style from "./Deletecomment.module.css";
 import { useQueryClient } from "@tanstack/react-query";
 import axios from "axios";
 import { IoIosCloseCircleOutline } from "react-icons/io";

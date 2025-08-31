@@ -1,5 +1,4 @@
 import React, { useContext, useState } from "react";
-import style from "./Uploadprofilephoto.module.css";
 import styled from "styled-components";
 import { useForm } from "react-hook-form";
 
