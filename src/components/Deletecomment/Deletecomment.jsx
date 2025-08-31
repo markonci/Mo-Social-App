@@ -49,7 +49,7 @@ export default function Deletecomment({ id }) {
       {/* button open modle delete  */}
       <button
         onClick={handleShow}
-        className="align-middle mt-3 pt-2 text-2xl cursor-pointer me-3 text-white hover:text-black transition duration-[0.3s]"
+        className="align-middle mt-3 pt-2 text-2xl cursor-pointer me-3 dark:text-white text-black dark:hover:text-black hover:text-blue-500 transition duration-[0.3s]"
       >
         <IoIosCloseCircleOutline />
       </button>
