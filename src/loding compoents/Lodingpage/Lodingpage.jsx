@@ -1,5 +1,4 @@
 import React from 'react'
-import style from './Lodingpage.module.css'
 import styled from 'styled-components';
 
 export default function Lodingpage() {

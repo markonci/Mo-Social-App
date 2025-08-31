@@ -1,5 +1,4 @@
 import React, { useContext, useState } from 'react'
-import style from './Updatepost.module.css'
 import { motion } from 'framer-motion';
 import { IoIosCloseCircleOutline } from "react-icons/io";
 import { CiImageOn } from "react-icons/ci";

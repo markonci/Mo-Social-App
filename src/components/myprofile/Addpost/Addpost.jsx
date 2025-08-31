@@ -1,5 +1,4 @@
 import React, { useContext, useState } from 'react'
-import style from './Addpost.module.css'
 import { IoMdImages } from "react-icons/io";
 import { useForm } from 'react-hook-form';
 import axios from 'axios';

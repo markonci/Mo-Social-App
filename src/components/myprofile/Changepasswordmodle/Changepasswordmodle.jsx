@@ -1,5 +1,4 @@
 import React, { useContext } from "react";
-import style from "./Changepasswordmodle.module.css";
 import styled from "styled-components";
 import { IoMdCloseCircle } from "react-icons/io";
 

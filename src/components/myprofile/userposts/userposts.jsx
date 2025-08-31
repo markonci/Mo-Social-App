@@ -1,5 +1,4 @@
 import React, { useContext, useState } from "react";
-import style from "./Userposts.module.css";
 import axios from "axios";
 import { APi_BASEURL } from "../../../lib/Api";
 import { useQuery } from "@tanstack/react-query";
