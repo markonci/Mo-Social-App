@@ -1,0 +1,16 @@
+@import "tailwindcss";
+@plugin "flowbite-react/plugin/tailwindcss";
+@source "../.flowbite-react/class-list.json";
+@custom-variant dark (&:where(.dark, .dark *));
+
+
+
+nav .active span{
+    color: #0866FF;
+}
+
+
+.row{
+    @apply flex flex-wrap
+}
+
