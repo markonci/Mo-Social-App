@@ -99,7 +99,7 @@ export default function Uploadprofilephoto() {
                   </button>
                 </div>
                 <div className="modal-body">
-                  <p className="modal-title">Upload a file</p>
+                  <p className="modal-title text-black">Upload a file</p>
                   <p className="modal-description">Attach the file below</p>
 
                   {/* --------------start input--------------  */}
@@ -133,7 +133,7 @@ export default function Uploadprofilephoto() {
                   {/* ----------------end lapel ------------------ */}
                 </div>
                 <div className="modal-footer">
-                  <button className="btn-secondary " onClick={handlemodleopen}>
+                  <button className="btn-secondary text-black " onClick={handlemodleopen}>
                     Cancel
                   </button>
                   <button

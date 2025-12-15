@@ -27,7 +27,7 @@ export default function Deletecomment({ id }) {
         },
       })
       .then((res) => {
-        console.log(res);
+        // console.log(res);
         if (res.data.message === "success") {
           toast.success("delete post successfuly🎉🎉");
           setisLoding(false);
